@@ -1,9 +1,8 @@
 
-
-    *{
-        padding: 0;
-        margin: 0;
-        box-sizing: border-box;
+*{
+    padding: 0;
+     margin: 0;
+    box-sizing: border-box;
         
 }   
      #myVideo {
@@ -11,7 +10,7 @@
     height: 30%;
 }
    .second-page{
-      height: 112%;
+    height: 112%;
     }
    .scroll{
     width: 23%;
@@ -27,7 +26,7 @@
     }
     .page-second-part{
         height: 500px;
-        background: url(/Black\ Blue\ Modern\ Party\ Night\ Club\ Flyer\ \(1\).jpg);
+        background: url(Images/3.jpg);
         background-size: 100% 100%;
         width: 100%;
         background-repeat: no-repeat;
@@ -35,7 +34,7 @@
     }
     .page-third-part{
         height: 500px;
-        background: url(/Officiating\ Miniasters.png);
+        background: url(Images/4.png);
         background-size: 100% 100%;
         width: 100%;
         background-repeat: no-repeat;
@@ -43,7 +42,7 @@
     }
     .page-fourth{
         height: 500px;
-        background: url(/ORDER\ SERVICE.png);
+        background: url(Images/5.png);
         background-size: 100% 100%;
         width: 100%;
         background-repeat: no-repeat;
@@ -51,14 +50,14 @@
     } 
     .page-fifth{
         height: 500px;
-        background: url(/black/3.png);
+        background: url(Images/6.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-sixth{
         height: 500px;
-        background: url(/OK/4.png);
+        background: url(Images/7.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
@@ -66,70 +65,70 @@
     }
     .page-seventh{
         height: 500px;
-        background: url(/OK/5.png);
+        background: url(Images/8.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-eight{
         height: 500px;
-        background: url(/OK/6.png);
+        background: url(Images/9.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-ninth{
         height: 500px;
-        background: url(/OK/7.png);
+        background: url(Images/10.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-tenth{
         height: 500px;
-        background: url(/OK/8.png);
+        background: url(Images/11.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-eleventh{
         height: 500px;
-        background: url(/OK/9.png);
+        background: url(Images/12.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-twelveth{
         height: 500px;
-        background: url(/OK/10.png);
+        background: url(Images/13.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-thirteenth{
             height: 500px;
-            background: url(/OK/11.png);
+            background: url(Images/14.png);
             background-size: 100% 100%;
             width:100%;
             background-repeat: no-repeat;
     }
     .page-fourteenth{
         height: 500px;
-        background: url(/OK/12.png);
+        background: url(Images/15.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-fifteenth{
         height: 500px;
-        background: url(/OK/13.png);
+        background: url(Images/16.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
     }
     .page-Sixteenth{
         height: 500px;
-        background: url(/black/14.png);
+        background: url(Images/17.png);
         background-size: 100% 100%;
         width:100%;
         background-repeat: no-repeat;
